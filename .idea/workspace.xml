@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b1c82ab-fd09-4f99-bdb0-df3b10886834" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/console" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/generators/templates/thetvdb.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/generators/thetvdb_genrator.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/thetvdb.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/thetvdb/client.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/thetvdb/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thetvdb.gemspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thetvdb.gemspec" afterPath="$PROJECT_DIR$/thetvdb.gemspec" />
     </list>
     <ignored path="thetvdb.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="thetvdb.gemspec" pinned="false" current-in-tab="false">
+      <file leaf-file-name="thetvdb.gemspec" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/thetvdb.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.31284302">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="client.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="client.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/thetvdb/client.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -148,12 +134,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/thetvdb.gemspec" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/lib/thetvdb/client.rb" />
         <option value="$PROJECT_DIR$/lib/generators/thetvdb_genrator.rb" />
         <option value="$PROJECT_DIR$/lib/generators/templates/thetvdb.rb" />
         <option value="$PROJECT_DIR$/lib/thetvdb.rb" />
+        <option value="$PROJECT_DIR$/thetvdb.gemspec" />
       </list>
     </option>
   </component>
@@ -426,14 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thetvdb.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -486,6 +464,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thetvdb.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31284302">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
