@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "thetvdb"
   spec.version       = Thetvdb::VERSION
   spec.authors       = ["liangyuzhe"]
-  spec.email         = ["liangyuzhe@yundianjia.com"]
+  spec.email         = ["2459889179@qq.com"]
 
   spec.summary       = %q{test}
   spec.description   = %q{test}
